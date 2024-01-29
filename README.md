@@ -25,4 +25,4 @@ To get started with the COVID-19 FAQ Chatbot, you'll need to set up a few Azure 
 ## Installation
 Clone the repository to your local machine using:
 ```bash
-git clone https://github.com/your-username/covid19-faq-chatbot.git
+Project link https://language.cognitive.azure.com/questionAnswering/projects/Chat-Bot-Adam
